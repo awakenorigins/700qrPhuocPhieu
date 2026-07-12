@@ -1,0 +1,20 @@
+{
+  "snapshot_version": "1.0.0",
+  "total": 700,
+  "distribution": {
+    "truc-duyen": 400,
+    "kim-tam": 200,
+    "nguyen-niem": 100
+  },
+  "short_domain": "https://qr.62.146.238.213.sslip.io",
+  "destination_domain": "https://tangkinhcac.62.146.238.213.sslip.io",
+  "audit": {
+    "qr_decode": "700/700 PASS",
+    "shlink_short_url": "700/700 PASS",
+    "shlink_destination": "700/700 PASS",
+    "sha256": "700 generated",
+    "duplicate_codes": 0,
+    "missing_sequences": 0
+  },
+  "warning": "PRINT MASTER. Do not rename codes, QR files, short URLs, or delete Shlink records after printing."
+}
